@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href='www.linkedin.com/in/nikita-kotovich-87b780211'>
+  <a href="https://www.linkedin.com/in/nikita-kotovich-87b780211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:collmalpa@gmail.com">
@@ -16,7 +16,7 @@
 - 🔭 I handle **Windows, macOS, and Linux, using tools like SCCM, Intune**
 - 🌱 I’m currently exploring **DevOps concepts and practices**
 - ❤️ Open Source Software
-- 📫 Reach me by [LinkedIn]('www.linkedin.com/in/nikita-kotovich-87b780211'), [email](mailto:collmalpa@gmail.com)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/nikita-kotovich-87b780211/), [email](mailto:collmalpa@gmail.com)
 - 🌍 I speak Russian, English
 
 ---
