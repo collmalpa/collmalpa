@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Nikita </h1>
-    <h3>System Administrator with a focus on DevOps</h3>
+    <h3>Service Desk Team Lead</h3>
 </div>
 
 <div id="socials" align="center">
